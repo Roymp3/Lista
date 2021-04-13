@@ -10,4 +10,5 @@ este projeto é uma lista, que pode ajudar em varias coisas como lista de mercad
 
 
 ### Badges
-	/amo/dw/:addonId
+![](https://img.shields.io/vscode-marketplace/d/thiagoguaru.jwtintegrator.svg)
+![](https://img.shields.io/appveyor/tests/thiagoloureiro/dapper-crud-extension.svg)
