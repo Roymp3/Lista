@@ -9,6 +9,9 @@ este projeto é uma lista, que pode ajudar em varias coisas como lista de mercad
 - React.js
 
 
-### Badges
+## Status
+[x] Concluido
+
+
 ![](https://img.shields.io/vscode-marketplace/d/thiagoguaru.jwtintegrator.svg)
 ![](https://img.shields.io/appveyor/tests/thiagoloureiro/dapper-crud-extension.svg)
