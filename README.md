@@ -10,7 +10,7 @@ este projeto é uma lista, que pode ajudar em varias coisas como lista de mercad
 
 
 ## Status
-[x]Concluido
+✔ Concluído
 
 
 ![](https://img.shields.io/vscode-marketplace/d/thiagoguaru.jwtintegrator.svg)
